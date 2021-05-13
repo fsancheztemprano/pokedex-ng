@@ -149,10 +149,10 @@
     ora "5.3.0"
     rxjs "6.6.3"
 
-"@angular-eslint/eslint-plugin-template@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@angular-eslint/eslint-plugin-template/-/eslint-plugin-template-3.0.1.tgz#88a2be8f36046085c5ed731c348bce1a03f05592"
-  integrity sha512-E0xIucCeH+tatv5gdIEnzMqUQ5P917E+9EIb0KiyEpqs4O2KF6UUa+RJaMB/AfnUV1URytvqWfGBxTDUgU/w9Q==
+"@angular-eslint/eslint-plugin-template@4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@angular-eslint/eslint-plugin-template/-/eslint-plugin-template-4.3.0.tgz#2a73fe6a48990eb07252e9637d05d7db1c7ba91e"
+  integrity sha512-5DuCvEa3cYx0G2mZtECAwgJ19xJWAFZ8Fu8mIkKDiof1dcUISs1PvECJ6NhdzfxEJp0McPQn1jtOK0IDRX1eJw==
   dependencies:
     "@typescript-eslint/experimental-utils" "4.16.1"
     aria-query "^4.2.2"

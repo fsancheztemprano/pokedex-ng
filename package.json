@@ -81,7 +81,7 @@
     "@angular-devkit/core": "~11.2.9",
     "@angular-devkit/schematics": "~11.2.9",
     "@angular-eslint/eslint-plugin": "4.0.0",
-    "@angular-eslint/eslint-plugin-template": "3.0.1",
+    "@angular-eslint/eslint-plugin-template": "4.3.0",
     "@angular-eslint/template-parser": "4.0.0",
     "@angular/cli": "~11.2.9",
     "@angular/compiler-cli": "~11.2.10",
