@@ -97,7 +97,7 @@
     "@types/node": "14.14.41",
     "@typescript-eslint/eslint-plugin": "~4.22.0",
     "@typescript-eslint/parser": "~4.22.0",
-    "angular-cli-ghpages": "~1.0.0-rc.1",
+    "angular-cli-ghpages": "~1.0.0-rc.2",
     "angular-http-server": "~1.10.0",
     "axios": "~0.21.1",
     "axios-observable": "~1.1.6",
