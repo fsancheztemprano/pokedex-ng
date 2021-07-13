@@ -2844,10 +2844,10 @@ aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.11.0.tgz#d61f46d83b2519250e2784daf5b09479a8b41c59"
   integrity sha512-xh1Rl34h6Fi1DC2WWKfxUTVqRsNnr6LsKz2+hfwDxQJWmrx8+c7ylaqBMcHfl1U1r2dsifOvKX3LQuLNZ+XSvA==
 
-axios-observable@~1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/axios-observable/-/axios-observable-1.1.6.tgz#08cec29faae1a9e1a766fb5e2e9d07eae406e1d4"
-  integrity sha512-demLOWURdp9YDFV9zXY6m8TXuIpY0tHUKKt4nsMJ48tQy+5pjZc22PjgxZL7nGojsICzSKZDly6EI12VUTssdQ==
+axios-observable@~1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/axios-observable/-/axios-observable-1.2.1.tgz#afe6cf28a67690c5e962d0cfd174022711b99756"
+  integrity sha512-B2JEEa64WF+3/NODeKNysDISB3SDbpBhePoUSM9SNzUmtWelnvqjVKg1NcsAavDN+BGDCuDFw6Jthse4ToXFxQ==
 
 axios@0.21.1, axios@~0.21.1:
   version "0.21.1"
