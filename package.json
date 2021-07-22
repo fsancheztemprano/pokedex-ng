@@ -88,7 +88,7 @@
     "@angular/language-service": "~11.2.10",
     "@nrwl/angular": "12.0.7",
     "@nrwl/cli": "12.0.7",
-    "@nrwl/eslint-plugin-nx": "12.0.7",
+    "@nrwl/eslint-plugin-nx": "12.5.9",
     "@nrwl/jest": "12.0.7",
     "@nrwl/node": "12.0.7",
     "@nrwl/tao": "12.0.7",
