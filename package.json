@@ -86,7 +86,7 @@
     "@angular/cli": "~11.2.9",
     "@angular/compiler-cli": "~11.2.10",
     "@angular/language-service": "~11.2.10",
-    "@nrwl/angular": "12.0.7",
+    "@nrwl/angular": "12.6.0",
     "@nrwl/cli": "12.0.7",
     "@nrwl/eslint-plugin-nx": "12.0.7",
     "@nrwl/jest": "12.0.7",
